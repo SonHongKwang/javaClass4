@@ -2,11 +2,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-Team4Application<Team4>",
+            "name": "Spring Boot-Team4Application<team4>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "mainClass": "com.chunjaeproject.team4.Team4Application",
-            "projectName": "Team4",
+            "projectName": "team4",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
         }
